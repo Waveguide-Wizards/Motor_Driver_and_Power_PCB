@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=Heater Old Footprint=TECO-282836-2_V New Footprint=TECO-282836-2_V
+Change Component Footprint: Designator=J1 Old Footprint=TECO-282836-2_V New Footprint=TECO-282836-2_V
+Change Component Footprint: Designator=J2 Old Footprint=TECO-282836-2_V New Footprint=TECO-282836-2_V
+Change Component Footprint: Designator=J3 Old Footprint=TECO-282836-2_V New Footprint=TECO-282836-2_V
+Change Component Designator: OldDesignator=J1 NewDesignator=PWR IN
+Change Component Designator: OldDesignator=J2 NewDesignator=AOUT
+Change Component Designator: OldDesignator=J3 NewDesignator=BOUT

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VM Pin=Heater-2
+Added Pin To Net: NetName=VM Pin=Heater-1
+Added Pin To Net: NetName=NetHeater_2 Pin=Heater-2
+Added Pin To Net: NetName=NetHeater_2 Pin=Q*-2
+Added Net: Name=NetHeater_2
+Added Room: Name=IFFF_DRV8886_Power_Breakout
